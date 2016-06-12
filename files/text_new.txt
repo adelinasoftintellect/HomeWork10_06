@@ -1,0 +1,1 @@
+This is expample for Java Copy text to a new file
